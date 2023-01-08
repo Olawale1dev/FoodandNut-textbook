@@ -32,19 +32,19 @@ import './App.css';
     
     <div>
     <div className="foodimg">  
-    <a href="http://localhost:3000/module3Unit1"><img src={Unit11} alt="about app" width={270} height={270} className="img"></img></a>
+    <a href="https://glittering-dodol-77f380.netlify.app/module3Unit1"><img src={Unit11} alt="about app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="http://localhost:3000/module3Unit2"><img src={Unit12} alt="about app" width={270} height={270} className="img"></img></a>
+    <a href="https://glittering-dodol-77f380.netlify.app/module3Unit2"><img src={Unit12} alt="about app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="http://localhost:3000/module3Unit3"><img src={Unit13} alt="about app" width={270} height={270} className="img"></img></a>
+    <a href="https://glittering-dodol-77f380.netlify.app/module3Unit3"><img src={Unit13} alt="about app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="http://localhost:3000/module3Unit4"><img src={Unit14} alt="about app" width={270} height={270} className="img"></img></a>
+    <a href="https://glittering-dodol-77f380.netlify.app/module3Unit4"><img src={Unit14} alt="about app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="http://localhost:3000/module3Unit5"><img src={Unit15} alt="about app" width={270} height={270} className="img"></img></a>
+    <a href="https://glittering-dodol-77f380.netlify.app/module3Unit5"><img src={Unit15} alt="about app" width={270} height={270} className="img"></img></a>
     </div>
     <Stack direction="row" spacing={2} className="tableofcontent">
         

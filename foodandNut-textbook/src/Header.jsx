@@ -35,7 +35,7 @@ const darkTheme = createTheme({
 
 const handleLogout = async () => {
   let res = await
-  fetch("http://localhost:3000/login");
+  fetch("http://https://glittering-dodol-77f380.netlify.app/login");
   let resJson = await res.json();
   //.then((res)=> res.json())
   //.then((resJson) => {
@@ -99,11 +99,11 @@ export default function Header() {
         onClose={handleClose}
         transitioncomponent={Fade}
       >
-        <MenuItem onClick={handleClose}><a href="http://localhost:3000" className="Listheader">Home</a></MenuItem>
-        <MenuItem onClick={handleClose}><a href="http://localhost:3000/module1" className="Listheader">Module 1</a></MenuItem>
-        <MenuItem onClick={handleClose}><a href="http://localhost:3000/module2" className="Listheader">Module 2</a></MenuItem>
-        <MenuItem onClick={handleClose}><a href="http://localhost:3000/module3" className="Listheader">Module 3</a></MenuItem>
-        <MenuItem onClick={handleClose}><a href="http://localhost:3000/module4" className="Listheader">Module 4</a></MenuItem>
+        <MenuItem onClick={handleClose}><a href="https://glittering-dodol-77f380.netlify.app" className="Listheader">Home</a></MenuItem>
+        <MenuItem onClick={handleClose}><a href="https://glittering-dodol-77f380.netlify.app/module1" className="Listheader">Module 1</a></MenuItem>
+        <MenuItem onClick={handleClose}><a href="https://glittering-dodol-77f380.netlify.app/module2" className="Listheader">Module 2</a></MenuItem>
+        <MenuItem onClick={handleClose}><a href="https://glittering-dodol-77f380.netlify.app/module3" className="Listheader">Module 3</a></MenuItem>
+        <MenuItem onClick={handleClose}><a href="https://glittering-dodol-77f380.netlify.app/module4" className="Listheader">Module 4</a></MenuItem>
         
        
         
