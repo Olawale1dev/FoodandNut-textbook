@@ -31,19 +31,19 @@ import './App.css';
     
     <div className="GridHome">
     <div className="foodimg">  
-    <a href="https://glittering-dodol-77f380.netlify.app/TableOfContent"><img src={about} alt="about app" width={270} height={270} className="img"></img></a>
+    <a href="./TableOfContent"><img src={about} alt="about app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="https://glittering-dodol-77f380.netlify.app/module1"><img src={Module1} alt="module1 app" width={100} height={100} className="img"></img></a>
+    <a href="./module1"><img src={Module1} alt="module1 app" width={100} height={100} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="https://glittering-dodol-77f380.netlify.app/module2"><img src={Module2} alt="module2 app" width={270} height={270} className="img"></img></a>
+    <a href="./module2"><img src={Module2} alt="module2 app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="https://glittering-dodol-77f380.netlify.app/module3"><img src={Module3} alt="module3 app" width={270} height={270} className="img"></img></a>
+    <a href="./module3"><img src={Module3} alt="module3 app" width={270} height={270} className="img"></img></a>
     </div>
     <div className="foodimg">
-    <a href="https://glittering-dodol-77f380.netlify.app/module4"><img src={Module4} alt="module4 app" width={270} height={270} className="img"></img></a>
+    <a href="./module4"><img src={Module4} alt="module4 app" width={270} height={270} className="img"></img></a>
     </div>
     
     <Stack direction="row" spacing={2} className="tableofcontent">
